@@ -1,0 +1,15 @@
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/bin/Debug/net6.0/lab_10
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/bin/Debug/net6.0/lab_10.deps.json
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/bin/Debug/net6.0/lab_10.runtimeconfig.json
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/bin/Debug/net6.0/lab_10.dll
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/bin/Debug/net6.0/lab_10.pdb
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.csproj.AssemblyReference.cache
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.AssemblyInfoInputs.cache
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.AssemblyInfo.cs
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.csproj.CoreCompileInputs.cache
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.dll
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/refint/lab_10.dll
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.pdb
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/lab_10.genruntimeconfig.cache
+/Users/aleksandra/visual studio/Projects/lab_10/lab_10/obj/Debug/net6.0/ref/lab_10.dll
